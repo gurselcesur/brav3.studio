@@ -1,0 +1,5 @@
+name = "brav3studio"
+compatibility_date = "2026-02-05"
+
+# Pages'in deploy edeceği klasör (SvelteKit + adapter-cloudflare)
+pages_build_output_dir = ".svelte-kit/cloudflare"
